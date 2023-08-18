@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxAChaosLib">
+      <UniqueIdentifier>{A76F3AC9-D0E3-7A73-E7E4-1A60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxAChaosLib\src">
+      <UniqueIdentifier>{B2D6D7F9-CBDE-3666-EB04-856D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosBaker.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosBase.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosClifford.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosCollatz.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosDuffing.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosGinger.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosHenon.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosHenonF.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosHenonHeilles.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosHenonPhase.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosIkeda.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosJong.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosLogistic.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosLogistic1.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosLorenz.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosLorenzEuler.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosLyapunov.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosNavierStokes.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosNavierStokesEuler.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosRossler.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosStein.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosStein1.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosTorus.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\AChaosVerhulst.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxAChaosLib\src\ofxAChaosLib.h">
+      <Filter>addons\ofxAChaosLib\src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
